@@ -80,7 +80,28 @@ SUBJECT_CODE_TO_NAME_MAP = {
     "CSDC8023" : "SMA",
     "CSC801" : "DC",
     "CSDL8013" : "ADS Lab",
-    "CSL801" : "DC Lab"
+    "CSL801" : "DC Lab",
+    
+    #Subject for FE
+    
+    "25BSC11CS01" : "Matrices and Differential Calculus",
+    "25BSC11CS02" : "Engineering Physics",
+    "25ESC11CS01" : "Engineering Graphics",
+    "25ESC11CS02" : "Programming Fundamentals",
+    "25PCC11CS01" : "Innovation and Design Thinking",
+    "25PCC11CS02" : "Essential Computing Skills for Engineers",
+    "25VSE11CS01" : "Measuring Instruments and Testing Tools",
+    "25AEC11CS01" : "Art of Communication",
+    "25BSC11CS03" : "Integral Calculus and Probability Theory",
+    "25BSC11CS04" : "Engineering Chemistry",
+    "25ESC11CS03" : "Basic Electrical and Electronics Engineering",
+    "25ESC11CS04" : "Human Health Systems",
+    "25PCC11CS03" : "Digital Electronics",
+    "25PCC11CS04" : "Essential Psychomotor Skills for Engineers",
+    "25VSE11CS02" : "Creative Coding in Python"
+    "25IKS11CS01" : "Indian Knowledge System "
+
+
 }
 
 MAX_MARKS_CONFIG = {
